@@ -1,2 +1,4 @@
 # Ignore virtual environments
 myproject-env/
+node_modules/
+
